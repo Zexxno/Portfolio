@@ -22,17 +22,15 @@ npm install
 npm run dev
 ```
 
-2 - Si deseas compilar el proyecto para producción, utiliza el siguiente comando. Esto generará una carpeta llamada ``dist`` con los archivos listos para ser desplegados:
+2 - Si quieres compilar el proyecto para producción, utiliza el siguiente comando. Esto generará una carpeta llamada ``dist`` con los archivos listos para ser desplegados:
 ```bash
 npm run build
 ```
 ## Tecnologías usadas
 
-<img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/astro/astro-original.svg" alt="HTML5" width="20" height="20"/> Astro
-
-<img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tailwindcss/tailwindcss-original.svg" alt="HTML5" width="20" height="20"/> Tailwind CSS
-
-<img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg" alt="HTML5" width="20" height="20"/> JavaScript
+<img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/astro/astro-original.svg" alt="HTML5" width="20" height="20"/>  Astro
+<img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tailwindcss/tailwindcss-original.svg" alt="HTML5" width="20" height="20"/>  Tailwind CSS
+<img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg" alt="HTML5" width="20" height="20"/>  JavaScript
 ## Demo
 
 [https://ivanhuesca.dev/](https://ivanhuesca.dev/)
