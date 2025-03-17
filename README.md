@@ -28,9 +28,10 @@ npm run build
 ```
 ## Tecnologías usadas
 
-<img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/astro/astro-original.svg" alt="HTML5" width="20" height="20"/>  Astro
-<img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tailwindcss/tailwindcss-original.svg" alt="HTML5" width="20" height="20"/>  Tailwind CSS
-<img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg" alt="HTML5" width="20" height="20"/>  JavaScript
+- __Astro__: He usado Astro para manejar el frontend y la gestión de los componentes.
+- __Tailwind CSS__: He usado Tailwind CSS para todo lo relacionado con el diseño y el estilo.
+- __JavaScript__: He usado JavaScript para tareas pequeñas y necesarias, como interactividad mínima.
+
 ## Demo
 
 [https://ivanhuesca.dev/](https://ivanhuesca.dev/)
