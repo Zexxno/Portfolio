@@ -1,40 +1,11 @@
-<header class="fixed top-5 left-1/2 transform -translate-x-1/2 bg-[#252529] shadow-lg rounded-full px-8 py-3 z-50">
-    <div class="relative">
-        <input type="checkbox" id="menu-toggle" class="menu-toggle hidden">
-        
-        <label for="menu-toggle" class="cursor-pointer md:hidden block">
-            <svg class="fill-current text-white" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
-                <path d="M24 6h-24v-2h24v2zm0 5h-24v-2h24v2zm0 5h-24v-2h24v2zm0 5h-24v-2h24v2z"/>
-            </svg>
-        </label>
-
-        <nav class="absolute top-full left-0 w-full bg-[#252529] shadow-lg rounded-lg p-4 md:p-0 md:relative md:bg-transparent md:shadow-none md:rounded-none hidden">
-            <ul class="flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-6">
-                <li><a href="#home" class="font-normal hover:text-[#ffd97b]"><i class="fa fa-house"></i></a></li>
-                <li><a href="#about" class="font-normal hover:text-[#ffd97b]">Sobre mi</a></li>
-                <li><a href="#projects" class="font-normal hover:text-[#ffd97b]">Proyectos</a></li>
-                <li><a href="#skills" class="font-normal hover:text-[#ffd97b]">Habilidades</a></li>
-                <li><a href="#contact" class="font-normal hover:text-[#ffd97b]">Contacto</a></li>
-            </ul>
-        </nav>
-    </div>
-</header> 
-
-<style>
-    nav {
-    	display: none;
-    }
-    .menu-toggle:checked ~ nav {
-        display: block;
-    }
-
-    @media (min-width: 768px) {
-        nav {
-            display: block !important;
-            position: relative;
-        }
-        .menu-toggle {
-            display: none;
-        }
-    }
-</style>
+<header class="hidden md:flex fixed top-5 left-1/2 transform -translate-x-1/2 bg-[#252529] shadow-lg rounded-full px-8 py-3 z-50">
+    <nav>
+        <ul class="flex space-x-6 text-white">
+            <li><a href="#home" class="font-normal hover:text-[#ffd97b]"><i class="fa fa-house"></i></a></li>
+            <li><a href="#about" class="font-normal hover:text-[#ffd97b]">Sobre mí</a></li>
+            <li><a href="#projects" class="font-normal hover:text-[#ffd97b]">Proyectos</a></li>
+            <li><a href="#skills" class="font-normal hover:text-[#ffd97b]">Habilidades</a></li>
+            <li><a href="#contact" class="font-normal hover:text-[#ffd97b]">Contacto</a></li>
+        </ul>
+    </nav>
+</header>
