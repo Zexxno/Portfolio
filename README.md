@@ -39,4 +39,4 @@ npm run build
 
 Este proyecto está bajo la **Licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0)**. Puedes usar, modificar y distribuir el código siempre que se te otorgue el crédito adecuado.
 
-Puedes ver más detalles en [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Puedes ver más detalles en [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es).
